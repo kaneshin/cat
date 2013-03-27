@@ -1,0 +1,17 @@
+CAT
+===
+
+## Just do it
+
+```
+$ make
+```
+
+and then,
+
+```
+$ ./cat foo.c bar.h
+```
+
+Shintaro Kaneko <kaneshin0120@gmail.com>
+
